@@ -11,3 +11,5 @@ echo ${1:-10} threads, ${2:-10} loops
     -Jthreads=${1:-10} \
     -Jloops=${2:-10} \
     -n -l ${JMETER_DIR}/results.jtl -e -o ${JMETER_DIR}/report
+
+    #
