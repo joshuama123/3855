@@ -1,0 +1,50 @@
+{
+  "Player Kills Request" : {
+    "transaction" : "Player Kills Request",
+    "sampleCount" : 2,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 1.5,
+    "medianResTime" : 1.5,
+    "minResTime" : 1.0,
+    "maxResTime" : 2.0,
+    "pct1ResTime" : 2.0,
+    "pct2ResTime" : 2.0,
+    "pct3ResTime" : 2.0,
+    "throughput" : 400.0,
+    "receivedKBytesPerSec" : 50.390625,
+    "sentKBytesPerSec" : 142.7734375
+  },
+  "Total" : {
+    "transaction" : "Total",
+    "sampleCount" : 4,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 7.999999999999999,
+    "medianResTime" : 2.0,
+    "minResTime" : 1.0,
+    "maxResTime" : 27.0,
+    "pct1ResTime" : 27.0,
+    "pct2ResTime" : 27.0,
+    "pct3ResTime" : 27.0,
+    "throughput" : 121.21212121212122,
+    "receivedKBytesPerSec" : 15.269886363636363,
+    "sentKBytesPerSec" : 40.0982481060606
+  },
+  "Match Request" : {
+    "transaction" : "Match Request",
+    "sampleCount" : 2,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 14.5,
+    "medianResTime" : 14.5,
+    "minResTime" : 2.0,
+    "maxResTime" : 27.0,
+    "pct1ResTime" : 27.0,
+    "pct2ResTime" : 27.0,
+    "pct3ResTime" : 27.0,
+    "throughput" : 62.5,
+    "receivedKBytesPerSec" : 7.87353515625,
+    "sentKBytesPerSec" : 19.04296875
+  }
+}

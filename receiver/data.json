@@ -1,0 +1,30 @@
+{
+  "match_events": 2,
+  "player_kills_events": 2,
+  "match": [
+    {
+      "match_id": "98cf82ec-34fb-4020-a86b-41cb00071dcb",
+      "timeplayed_ms": 864861,
+      "timestamp": "2026-09-28T10:55:43.725Z"
+    },
+    {
+      "match_id": "e5e5a557-1949-4388-a599-abcd6654fc6a",
+      "timeplayed_ms": 869901,
+      "timestamp": "2026-09-21T06:34:52.637Z"
+    }
+  ],
+  "player_kills": [
+    {
+      "player_id": "b080bec8-ddf6-4982-8464-a7cc6911ae9a",
+      "match_id": "d4cfbed4-ad5f-48da-8e23-8bd987d6dce7",
+      "kill_count": 8,
+      "timestamp": "2026-09-28T10:55:21.823Z"
+    },
+    {
+      "player_id": "fd8a7e24-ef08-430c-8fe0-236d388a19ec",
+      "match_id": "f914e375-6e95-435b-9837-ef7b202c77c0",
+      "kill_count": 46,
+      "timestamp": "2026-09-21T06:34:31.984Z"
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1790270482094,27,Match Request,201,Created,Thread Group 1-1,text,true,,129,312,1,1,http://localhost:8000/fortnite/match,24,0,10
+1790270482122,2,Player Kills Request,201,Created,Thread Group 1-1,text,true,,129,365,1,1,http://localhost:8000/fortnite/player-kills,2,0,0
+1790270482124,2,Match Request,201,Created,Thread Group 1-1,text,true,,129,312,1,1,http://localhost:8000/fortnite/match,2,0,0
+1790270482126,1,Player Kills Request,201,Created,Thread Group 1-1,text,true,,129,366,1,1,http://localhost:8000/fortnite/player-kills,1,0,0
